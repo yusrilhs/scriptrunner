@@ -7,7 +7,7 @@ Plugin for Sublime Text 3 for run your script from text editor. Doing it manuall
 
 Installing:
 -----------
-**Without Git:** Download the latest source from [GitHub](http://github.com/fesuydev/runnertools). Copy the whole directory into the Packages directory.
+**Without Git:** Download the latest source from [GitHub](https://github.com/yusrilhs/scriptrunner/archive/master.zip). Copy the whole directory into the Packages directory.
 
 **With Git:** Clone the repository in your Sublime Text Packages directory:
 
