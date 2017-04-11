@@ -1,0 +1,9 @@
+{
+  ".py": "python {scriptname}",
+  ".php": "php {scriptname}",
+  ".rb": "ruby {scriptname}",
+  ".js": "node {scriptname}",
+
+  // "main_file": "app.php",
+  // "main_dir": "/var/www/html/myapp"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tools",
+    "children":
+    [
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "Run Script",
+        "command": "run_script"
+      },
+      {
+        "caption": "Stop Run Script",
+        "command": "stop_run_script"
+      },
+      {
+        "caption": "Run Script Configuration",
+        "command": "edit_settings", "args":
+        {
+          "base_file": "${packages}/runnertools/runnertools.sublime-settings",
+          "default": "// Runner extensions can be overriden here\n// if you want set a main file just add \n// 'main_file' and 'main_dir'\n{\n\t$0\n}"
+        }
+      }
+    ]
+  }
+]
